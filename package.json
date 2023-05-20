@@ -6,8 +6,8 @@
   "publisher": "SIDESKETCH",
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "https://github.com/SIDESKETCH/SIDESKETCH"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
