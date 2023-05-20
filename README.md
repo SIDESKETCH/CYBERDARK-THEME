@@ -74,4 +74,4 @@
  
 ## 📄 **LICENSE**
 
-***[MIT License](https://github.com/SIDESKETCH/CyberDark-Theme/blob/main/License)***
+***[MIT License](https://github.com/SIDESKETCH/CyberDark-Theme/blob/main/LICENSE)***
