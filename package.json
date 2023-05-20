@@ -1,0 +1,27 @@
+{
+  "name": "cyberdark-theme",
+  "displayName": "CYBERDARK THEME",
+  "description": "This extension was initially created for my own personal use, to minimize common color distraction fatigue while coding, yet designed to be aesthetically pleasing, focusing on optimal readability of the code syntax.",
+  "version": "1.0.0",
+  "publisher": "SIDESKETCH",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "icon": "ICON.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CYBERDARK THEME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CYBERDARK THEME-color-theme.json"
+      }
+    ]
+  }
+}
