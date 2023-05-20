@@ -4,7 +4,7 @@
 
 # 📱 **CYBERDARK THEME**
 
-*A clean **[CyberDark](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.sidesketch-design&ssr=false#overview)** extension theme for **[Visual Studio Code](https://code.visualstudio.com/)**.*
+*A clean **[CyberDark](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.CYBERDARK-THEME&ssr=false#overview)** extension theme for **[Visual Studio Code](https://code.visualstudio.com/)**.*
 
  
 
@@ -16,7 +16,7 @@
 ## 💻 **PREVIEW**
 #### *Enjoy the **new and darker** coding experience.*
 
-[![Preview](https://img.shields.io/badge/CLICK%20TO%20PREVIEW%20THEME%20AT-VSCODE.DEV-E41838?style=for-the-badge&logo=visualstudiocode)](https://vscode.dev/theme/aeschli.senja-dark)
+[![Preview](https://img.shields.io/badge/CLICK%20TO%20PREVIEW%20THEME%20AT-VSCODE.DEV-E41838?style=for-the-badge&logo=visualstudiocode)](https://vscode.dev/theme/CYBERDARK-THEME)
 
 
 ![Screenshot](https://i.imgur.com/hv1Mn4s.png)

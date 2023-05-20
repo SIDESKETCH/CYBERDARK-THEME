@@ -8,6 +8,15 @@
     "type": "git",
     "url": "https://github.com/SIDESKETCH/CYBERDARK-THEME"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cyberdark",
+    "cyberdark theme",
+    "sidesketch",
+    "sidesketch theme",
+    "sidesketch dark"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
