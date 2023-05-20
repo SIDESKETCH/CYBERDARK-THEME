@@ -16,7 +16,7 @@
 ## 💻 **PREVIEW**
 #### *Enjoy the **new and darker** coding experience.*
 
-[![Preview](https://img.shields.io/badge/CLICK%20TO%20PREVIEW%20THEME%20AT-VSCODE.DEV-E41838?style=for-the-badge&logo=visualstudiocode)](https://vscode.dev/theme/SIDESKETCH(/CYBERDARK-THEME)?)
+[![Preview](https://img.shields.io/badge/CLICK%20TO%20PREVIEW%20THEME%20AT-VSCODE.DEV-E41838?style=for-the-badge&logo=visualstudiocode)](https://vscode.dev/theme/SIDESKETCH.CYBERDARK-THEME)
 
 
 ![Screenshot](https://i.imgur.com/hv1Mn4s.png)
