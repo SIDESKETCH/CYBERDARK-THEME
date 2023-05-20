@@ -2,7 +2,7 @@
   "name": "cyberdark-theme",
   "displayName": "CYBERDARK THEME",
   "description": "This extension was initially created for my own personal use, to minimize common color distraction fatigue while coding, yet designed to be aesthetically pleasing, focusing on optimal readability of the code syntax.",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "publisher": "SIDESKETCH",
   "repository": {
     "type": "git",
